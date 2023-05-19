@@ -1,0 +1,13 @@
+title: "syntevo blog"
+
+paginate: 25
+show_excerpts: true
+incremental: false
+
+# see https://jekyllrb.com/docs/configuration/front-matter-defaults/
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
