@@ -4,7 +4,7 @@ date: "2017-02-21"
 categories: 
   - "smartgit"
 tags: 
-  - "smartgit"
+  - "theming"
 ---
 
 SmartGit 17 allows to use theme files that can define alternative colors for foreground or background of certain controls.
