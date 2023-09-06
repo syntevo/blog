@@ -30,4 +30,4 @@ graph.connector.16=derive(#ff0000, 0.8, 0.7)
 ```
 If you think to have found a nice palette for version 22.1, please share with us at [smartgit@syntevo.com](mailto:smartgit@syntevo.com).
 
-For more details on custom themes, have a look at [Playing with themes](https://www.syntevo.com/blog/?p=4391).
+For more details on custom themes, have a look at [Playing with themes]({% post_url 2017-02-21-playing-with-themes %}).
