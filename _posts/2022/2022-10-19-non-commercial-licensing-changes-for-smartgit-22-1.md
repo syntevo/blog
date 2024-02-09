@@ -18,8 +18,10 @@ For SmartGit 22.1, we have changed the non-commercial licensing conditions to be
 
 The new licensing conditions are now enforced by requiring a [non-commercial license](https://www.syntevo.com/register-non-commercial/).
 
-We have decided to take this step, because the current proportion of non-commercial users is above 60%. For a B2B-product in the Software industry, this is in stark contrast with the overall number of Software developers compared to the number of primary open source developers and academic users 😉
+We have decided to take this step, because the current proportion of non-commercial users is above 60%.
+For a B2B-product in the Software industry, this is in stark contrast with the overall number of Software developers compared to the number of primary open source developers and academic users 😉.
 
 ##### SmartSVN and SmartSynchronize
 
-We have applied the same licensing changes for SmartSVN 14.3 and SmartSynchronize 4.4. Your [non-commercial license](https://www.syntevo.com/register-non-commercial/) will work with these products out-of-the-box.
+Except of the hobby users we have applied the same licensing changes for SmartSVN 14.3 and SmartSynchronize 4.4.
+Your [non-commercial license](https://www.syntevo.com/register-non-commercial/) will work with these products out-of-the-box.
