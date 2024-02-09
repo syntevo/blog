@@ -9,8 +9,7 @@ For SmartGit 22.1, we have changed the non-commercial licensing conditions to be
 
 1. **everyone who spends the majority of their work on open-source projects** (before, it was only "to actively work on open-source projects", which is significantly more restrictive)
 2. **employees or students on public academic institutions** (before, it was only "for learning or teaching on a public academic institution")
-3. **employees of companies for whom the company owns a valid SmartGit license**
-4. **hobby users**, with certain limitations on the repositories; requires [version 23.1 preview](https://www.syntevo.com/smartgit/preview/), see also [this blog post](https://www.syntevo.com/blog/?p=5488)
+3. **hobby users**, with certain limitations on the repositories; requires [version 23.1 preview](https://www.syntevo.com/smartgit/preview/), see also [this blog post](https://www.syntevo.com/blog/?p=5488)
 
 ##### Technically enforced licensing conditions
 
