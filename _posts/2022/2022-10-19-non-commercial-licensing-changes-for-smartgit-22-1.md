@@ -3,6 +3,9 @@ title: "Non-commercial licensing changes for SmartGit 22.1"
 date: "2022-10-19"
 categories: 
   - "smartgit"
+tags: 
+  - "non-commercial"
+  - "smartgit"
 ---
 
 For SmartGit 22.1, we have changed the non-commercial licensing conditions to be more permissive overall. SmartGit is now free for:
