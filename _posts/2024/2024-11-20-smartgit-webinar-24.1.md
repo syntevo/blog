@@ -8,7 +8,8 @@ tags:
 - "smartgit"
 ---
 
-Discover how SmartGit can elevate your Git workflows! We're excited to invite you to an exclusive **free live webinar**, where we'll walk you through the highlights of SmartGit Release 24.1.
+Discover how SmartGit can elevate your Git workflows!
+We're excited to invite you to an exclusive **free live webinar** on **December 3rd**, where we'll walk you through the highlights of SmartGit Release 24.1.
 
 [**Register now for the free SmartGit webinar!**](https://zoom.us/webinar/register/9117321040303/WN_YXHOsaigRe-CL1D-wEA-Ag)
 
@@ -22,9 +23,9 @@ This interactive session will showcase:
 
 ### Why Attend?
 
-Whether you're a seasoned SmartGit user or new to the platform, this webinar is your opportunity to see these features in action. Gain valuable tips to optimize your workflow and make the most of SmartGit's capabilities.
+Whether you're a seasoned SmartGit user or new to the platform, this webinar is your opportunity to see these features in action.
+Gain valuable tips to optimize your workflow and make the most of SmartGit's capabilities.
 
 **Don't miss out!** Reserve your spot today for this free webinar and take a step toward more efficient Git management.
 
 We look forward to seeing you there!
- 
