@@ -7,7 +7,7 @@ tags:
   - "smartsynchronize"
 ---
 
-The first public build of **SmartSynchronize 4.6** is available for download.
+The second public build of **SmartSynchronize 4.6** is available for download.
 
 - [download](https://www.syntevo.com/smartsynchronize/preview)
 
