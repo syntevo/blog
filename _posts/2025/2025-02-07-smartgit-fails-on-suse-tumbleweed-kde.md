@@ -7,6 +7,7 @@ tags:
   - "smartgit"
   - "SuSE Tumbleweed"
   - "kde"
+author: "Thomas Singer"
 ---
 
 ## SmartGit might fail to start on KDE systems
