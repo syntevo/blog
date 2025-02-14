@@ -5,8 +5,7 @@ categories:
   - "smartgit"
 tags:
   - "smartgit"
-  - "SuSE Tumbleweed"
-  - "kde"
+  - "linux"
 author: "Thomas Singer"
 ---
 
