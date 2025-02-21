@@ -35,3 +35,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+/.obsidian/appearance.json
+/.obsidian/core-plugins.json
+/.obsidian/workspace.json
