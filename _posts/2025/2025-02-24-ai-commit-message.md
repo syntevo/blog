@@ -24,7 +24,7 @@ This feature is an opt-in and enables AI-generated commit messages based on your
 
 As this feature is in early development, we are looking for alpha testers to provide feedback. To participate:
 
-1. **Update SmartGit**: Download the latest [25.1 Preview](https://www.syntevo.com/smartgit/preview/) and ensure you are using version 25.1.013 or later via *Help|Check for Latest Build*.
+1. **Update SmartGit**: Download the latest [25.1 Preview](https://www.syntevo.com/smartgit/preview/) and ensure you are using version 25.1.013 or later via *Help \| Check for Latest Build*.
 
 1. **Enable AI Integration**: Configure the AI feature as described in our [AI Integration Documentation](https://docs.syntevo.com/SmartGit/Latest/Manual/Integrations/AI).
    - For example, to set up GitHub CoPilot LLMs, add the following lines to your `.git/config`:
