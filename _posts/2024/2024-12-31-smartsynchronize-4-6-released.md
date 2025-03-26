@@ -11,7 +11,7 @@ We are delighted to announce the official release of [SmartSynchronize 4.6](http
 First and foremost, a heartfelt thank you to all the users who tested our preview versions and shared their invaluable feedback—your contributions made this progress possible.
 
 In SmartSynchronize 4.6, we focused on enhancing existing features, with particular attention to the file manager.
-Check out [What's New](https://www.syntevo.com/smartsynchronize/whats-new/) and the [changelog](https://www.syntevo.com/smartsynchronize/changelog.txt) for more details.
+Check out [What's New](https://www.syntevo.com/smartsynchronize/whats-new/) and the [changelog](https://www.syntevo.com/smartsynchronize/changelog-4.6.txt) for more details.
 
 SmartSynchronize is a versatile **multi-platform, keyboard-centric, dual-pane file manager**.
 Its key features include:
