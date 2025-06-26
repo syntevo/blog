@@ -10,7 +10,7 @@ tags:
 
 At Syntevo, we're not just building a Git client, we believe that Git should be accessible to everyone. Whether you're writing code to teach the next generation, contributing to open source, or working on charitable initiatives - your work matters. And we want to support it.
 
-That's why we are now offering the full version of SmartGit **completely free of charge** for:
+That's why, starting with SmartGit 25.1 (currently in Preview), we are offering SmartGit's full feature set completely free of charge for:
 
 * ***Academic users** – students, schools, universities  
 * **Open-source developers and projects**  
@@ -33,6 +33,6 @@ We also believe that high-quality education is the key for building a strong fut
 **How to apply**
 If you’re part of an **academic institution**, an **open-source project**, or a **charitable organization** – you are welcome to apply for a free SmartGit license: Apply for Non-Commercial License:
 
-👉 [Apply for Non-Commercial License](https://www.syntevo.com/register-non-commercial/)
+👉 [Apply for a Non-Commercial License](https://www.syntevo.com/register-non-commercial/) and get [SmartGit 25.1 Preview](https://www.syntevo.com/smartgit/preview/) (use Help|Check for Latest Build to ensure you are running at least version 25.1.053).
 
 We hope this initiative helps you and your community do what you do best.
