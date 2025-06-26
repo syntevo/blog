@@ -12,7 +12,7 @@ At Syntevo, we're not just building a Git client, we believe that Git should be 
 
 That's why, starting with SmartGit 25.1 (currently in Preview), we are offering SmartGit's full feature set completely free of charge for:
 
-* ***Academic users** – students, schools, universities  
+* **Academic users** – students, schools, universities  
 * **Open-source developers and projects**  
 * **Charitable organizations**
 
@@ -33,6 +33,6 @@ We also believe that high-quality education is the key for building a strong fut
 **How to apply**
 If you’re part of an **academic institution**, an **open-source project**, or a **charitable organization** – you are welcome to apply for a free SmartGit license: Apply for Non-Commercial License:
 
-👉 [Apply for a Non-Commercial License](https://www.syntevo.com/register-non-commercial/) and get [SmartGit 25.1 Preview](https://www.syntevo.com/smartgit/preview/) (use Help|Check for Latest Build to ensure you are running at least version 25.1.053).
+👉 [Apply for a Non-Commercial License](https://www.syntevo.com/register-non-commercial/) and get [SmartGit 25.1 Preview](https://www.syntevo.com/smartgit/preview/) (use **Help\|Check for Latest** Build to ensure you are running at least version 25.1.053).
 
 We hope this initiative helps you and your community do what you do best.
