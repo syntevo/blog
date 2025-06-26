@@ -10,9 +10,9 @@ tags:
 
 At Syntevo, we're not just building a Git client, we believe that Git should be accessible to everyone. Whether you're writing code to teach the next generation, contributing to open source, or working on charitable initiatives - your work matters. And we want to support it.
 
-That's why we are now offering the full version of SmartGit **completely free of charge** for:
+That’s why we are now offering the full version of SmartGit – **always the newest version** – **completely free of charge** for::
 
-* ***Academic users** – students, schools, universities  
+* **Academic users** – students, schools, universities  
 * **Open-source developers and projects**  
 * **Charitable organizations**
 
