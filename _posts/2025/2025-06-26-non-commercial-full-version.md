@@ -10,7 +10,7 @@ tags:
 
 At Syntevo, we're not just building a Git client, we believe that Git should be accessible to everyone. Whether you're writing code to teach the next generation, contributing to open source, or working on charitable initiatives - your work matters. And we want to support it.
 
-That's why, starting with SmartGit 25.1 (currently in Preview), we are offering SmartGit's full feature set completely free of charge for:
+That's why, starting with SmartGit 25.1 (currently in Preview), we are offering SmartGit's **full feature set** completely **free of charge** for:
 
 * **Academic users** – students, schools, universities  
 * **Open-source developers and projects**  
