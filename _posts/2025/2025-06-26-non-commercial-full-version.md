@@ -16,7 +16,7 @@ That's why, starting with SmartGit 25.1 (currently in Preview), we are offering 
 * **Open-source developers and projects**  
 * **Charitable organizations**
 
-**What’s included?**
+## What’s included?
 You’ll get full access to the complete SmartGit feature set:
 
 - **Full "Standard Window"** included
@@ -26,11 +26,11 @@ You’ll get full access to the complete SmartGit feature set:
 - **TeamCity integration** included
 - Old versions expire after 2 years, but we will notify you well in advance
 
-**Why are we doing this?**
+## Why are we doing this?
 At Syntevo, we benefit significantly from Open Source, hence we want to give something back to the community of active Open Source contributors.
 We also believe that high-quality education is the key for building a strong future. Last but not least, we value charitable initiatives that make a positive impact for humanity, animals, or the environment. That’s why we support all of these efforts with free licenses for SmartGit.
 
-**How to apply**
+## How to apply
 If you’re part of an **academic institution**, an **open-source project**, or a **charitable organization** – you are welcome to apply for a free SmartGit license: Apply for Non-Commercial License:
 
 👉 [Apply for a Non-Commercial License](https://www.syntevo.com/register-non-commercial/) and get [SmartGit 25.1 Preview](https://www.syntevo.com/smartgit/preview/) (use **Help\|Check for Latest** Build to ensure you are running at least version 25.1.053).
