@@ -9,9 +9,9 @@ tags:
   - "wearedevelopers"
 ---
 
-Our team had the opportunity to attend the **WeAreDevelopers World Congress in Berlin**, one of Europe’s largest developer events — and this year, we brought along a special guest: **SmartGitty**, our mascot. 
-
 [![](/assets/images/WAD.png)](/assets/images/WAD.png)
+
+Our team had the opportunity to attend the **WeAreDevelopers World Congress in Berlin**, one of Europe’s largest developer events — and this year, we brought along a special guest: **SmartGitty**, our mascot. 
 
 ### Connecting with the Developer Community
 
@@ -23,9 +23,9 @@ It was a great chance to:
 - Explore current trends in software development
 - Listen to high-quality talks from a wide range of speakers
 
-### Introducing SmartGitty 🐱
-
 [![](/assets/images/SmartGitty.png)](/assets/images/SmartGitty.png)
+
+### Introducing SmartGitty 🐱
 
 **SmartGitty** is more than just our visual mascot — she represents the personality behind SmartGit: smart, relaxed and cool.
 #### Why a cat?
