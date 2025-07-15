@@ -38,6 +38,5 @@ In the future, expect to see her in other places (both offline and online), too 
 Thanks to everyone who stopped by, shared feedback, or simply took a photo with SmartGitty. We enjoyed the exchange and look forward to seeing some of you again — online or at upcoming events.
 
 [![](/assets/images/WAD-people.png)](/assets/images/WAD-people.png)
+
 From left: Benjamin Ruschin - Executive Chairman of WeAreDevelopers, Cornelia Lieber - Marketing Manager syntevo GmbH, Sead Ahmetovic - CEO of WeAreDevelopers
-
-
