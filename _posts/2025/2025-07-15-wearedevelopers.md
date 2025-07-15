@@ -31,10 +31,9 @@ It was a great chance to:
 #### Why a cat?
 Because cats are curious, independent, and always land on their feet — just like we want **you** to feel when working with SmartGit.
 
-At WeAreDevelopers, SmartGitty made her first live appearance — as a **life-size figure** ready for photos. In future you'll also find her in our **tutorials, animations, and feature explainers**.
-
+At WeAreDevelopers, SmartGitty made her first live appearance as a **life-sized figure** ready for photos.
 Even a serious tool can have a friendly interface — and a recognizable face.
-
+In the future, expect to see her in other places (both offline and online), too 😸
 
 Thanks to everyone who stopped by, shared feedback, or simply took a photo with SmartGitty. We enjoyed the exchange and look forward to seeing some of you again — online or at upcoming events.
 
