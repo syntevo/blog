@@ -11,3 +11,6 @@ defaults:
       path: ""
     values:
       layout: "post"
+
+kramdown:
+  smart_quotes: [34, 39, 8216, 8217]
