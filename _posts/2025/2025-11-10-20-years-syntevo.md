@@ -6,10 +6,6 @@ categories:
 tags: 
   - "smartgit"
   - "event"
-  - "anniversary"
-  - "milestone"
-  - "celebration"
-  - "syntevo"
 ---
 
 [![](/assets/images/Syntevo_20years.png)](/assets/images/Syntevo_20years.png)

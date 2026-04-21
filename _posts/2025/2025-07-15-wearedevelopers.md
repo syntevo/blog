@@ -6,7 +6,6 @@ categories:
 tags: 
   - "smartgit"
   - "event"
-  - "wearedevelopers"
 ---
 
 [![](/assets/images/WAD.png)](/assets/images/WAD.png)
