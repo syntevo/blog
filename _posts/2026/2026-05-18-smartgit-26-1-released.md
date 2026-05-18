@@ -17,7 +17,7 @@ SmartGit 26.1 comes with
 * new **GitLab integration** in the **Standard window**, including merge requests, CI/CD status, direct browsing, and issue-based commit messages
 * better **worktree workflows**, with clean/modified state in Branches and Graph, smoother drag and drop, and improved remove/prune handling
 * **Commit Overlap** in the Graph to spot related commits, likely conflicts, and squash/reorder candidates earlier
-* improved **AI workflows** with **Ask AI** custom prompts, `{{ branch }}` templates, merge-commit support, and safer rewording of signed commits
+* improved **AI workflows** with **Ask AI** custom prompts, templates, merge-commit support, and safer rewording of signed commits
 * clearer **provider configuration** handling and improved **Pull vs. Pull All** behavior for multi-remote repositories
 * easier discovery of the **main windows** and many additional refinements across the Standard and Log windows
 
