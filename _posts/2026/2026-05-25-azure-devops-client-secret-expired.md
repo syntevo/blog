@@ -5,7 +5,6 @@ categories:
   - "smartgit"
 tags:
   - "smartgit"
-  - "azure-devops"
 ---
 
 If you are using Azure DevOps with SmartGit and authentication fails, please create an Azure DevOps personal access token and configure SmartGit according to our [setup instructions](https://docs.syntevo.com/SmartGit/Latest/Manual/Integrations/Azure-DevOps#setup-via-personal-access-token).

@@ -6,8 +6,6 @@ categories:
 tags: 
     - "git"
     - "smartgit"
-    - "rebase"
-    - "modify"
 author: "Wilfried Nesensohn"
 ---
 

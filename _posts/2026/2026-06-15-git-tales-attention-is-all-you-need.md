@@ -6,8 +6,6 @@ categories:
 tags: 
     - "git"
     - "smartgit"
-    - "split"
-    - "modify"
 author: "Wilfried Nesensohn"
 ---
 
